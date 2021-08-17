@@ -76,7 +76,7 @@ const SearchBooks = () => {
         throw new Error('something went wrong!');
       }
       console.log(data);
-      setSß([...savedBookIds, bookToSave.bookId]);
+      setSavedBookIds([...savedBookIds, bookToSave.bookId]);
     } catch (err) {
       console.error(err);
     }
