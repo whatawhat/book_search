@@ -8,7 +8,7 @@
 - [How to Use](#how-to-use)
 - [Screenshots](#screenshots)
 - [Contributors](#contributors)
-- [Sources](#sources)
+- [Questions](#questions)
 
 ## Description
 The Book Search Engine application uses the MERN stack. It is designed to allow users to login and save book searches to the back end. Google Books API search engine was used to build this application.
