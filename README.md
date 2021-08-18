@@ -18,7 +18,7 @@ The Book Search Engine application uses the MERN stack. It is designed to allow 
 
 ## Link
 Here is the link to my github repo
-[Book Searc](https://github.com/whatawhat/book_search)
+[Book Search](https://github.com/whatawhat/book_search)
 ## Technologies Used
 ```
 HTML JavaScript CSS Bootstrap
